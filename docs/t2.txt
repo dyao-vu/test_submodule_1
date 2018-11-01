@@ -1,0 +1,3 @@
+I want to git grep the files which has two pre-specified words (if both exist, i.e. ANDing), assume these two words are word1 and word2
+
+I tried

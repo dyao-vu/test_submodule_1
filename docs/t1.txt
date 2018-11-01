@@ -1,0 +1,6 @@
+but both retrieve the results only if word1 and word2 are on the same line, and the second one does not retrieve if 
+word2 comes first in the line, which is something that I don't want.
+
+I want to retrieve the files, even if the two words are not on same line (I am not sure how many lines separates them, and the order is not important; any order should be fetched).
+
+Is this possible ?

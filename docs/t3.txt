@@ -1,0 +1,11 @@
+but both retrieve the results only if word1 and word2 are on the same line, and the second one does not retrieve if word2 comes first in the line, which is something that I don't want.
+
+
+
+
+
+but both retrieve the results only if word1 
+and word2 are on the same line, and the second one does not retrieve if 
+word2 comes first in the line, which is something that I don't want.
+
+
